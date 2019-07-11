@@ -1,6 +1,6 @@
-点击订阅[Java面试进阶指南](https://xiaozhuanlan.com/javainterview?rel=javaguide)(专为Java面试方向准备)。[为什么要弄这个专栏?](https://shimo.im/docs/9BJjNsNg7S4dCnz3/)
+Click on the subscription [Java Interview Advanced Guide] (https://xiaozhuanlan.com/javainterview?rel=javaguide) (prepared for the Java interview direction). [Why do you want to make this column?] (https://shimo.im/docs/9BJjNsNg7S4dCnz3/)
 
-点击关注[公众号](#公众号)及时获取笔主最新更新文章，并可免费领取本文档配套的《Java面试突击》以及Java工程师必备学习资源。
+Click on the [Public Number] (#Public Number) to get the latest update article of the author in time, and receive the "Java Interview Assault" and the necessary learning resources for Java engineers for free.
 
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://snailclimb.gitee.io/javaguide"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
-  <a href="#联系我"><img src="https://img.shields.io/badge/chat-微信群-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
+  <a href="#Contact me"><img src="https://img.shields.io/badge/chat-WeChat group-blue.svg" alt="WeChat group"></a>
+  <a href="#Public Number"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey. Svg" alt="public number"></a>
+  <a href="#Public Number"><img src="https://img.shields.io/badge/PDF-Java Interview Assault-important.svg" alt="Public Number"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
 </p>
 
@@ -20,272 +20,272 @@
 <p align="center">
 <!--
 <a href="https://www.aliyun.com/acts/hi618/index?userCode=hf47liqn" target="_blank">
-   <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/阿里云外投-1600-300.png"  width="390px"  height="70px" alt="阿里云618 2折起！"/>
+   <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/Alibaba Cloud Outside -1600-300.png" width="390px" height=" 70px" alt="Alibaba Cloud 618 2 fold!"/>
 </a>
 -->
 <a href="https://coding.net/?utm_source=JavaGuide" target="_blank">
-  <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/006rNwoDgy1g2dw5gau7nj30eg02vwfr.jpg"  alt="零成本开启敏捷研发" height="70px" width="390px"/>
+  <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/006rNwoDgy1g2dw5gau7nj30eg02vwfr.jpg" alt="zero cost to start agile development" height="70px" width ="390px"/>
 </a>  
 </p>
 
-推荐使用 https://snailclimb.top/JavaGuide/ 在线阅读(访问速度慢的话，请使用 https://snailclimb.gitee.io/javaguide )，在线阅读内容本仓库同步一致。这种方式阅读的优势在于：有侧边栏阅读体验更好，Gitee pages 的访问速度相对来说也比较快。
+It is recommended to use https://snailclimb.top/JavaGuide/ to read online (if the access speed is slow, please use https://snailclimb.gitee.io/javaguide), and read the content online. The advantage of reading this way is that there is a better sidebar reading experience, and the access speed of the Gite pages is relatively fast.
 
-## 目录
+## table of Contents
 
-- [Java](#java)
-    - [基础](#基础)
-    - [容器](#容器)
-    - [并发](#并发)
+- [Java] (# java)
+    - [Basic] (#Basic)
+    -[Container] (# container)
+    - [Concurrent] (#concurrency)
     - [JVM](#jvm)
-    - [I/O](#io)
-    - [Java 8](#java-8)
-    - [编程规范](#编程规范)
-- [网络](#网络)
-- [操作系统](#操作系统)
-    - [Linux相关](#linux相关)
-- [数据结构与算法](#数据结构与算法)
-    - [数据结构](#数据结构)
-    - [算法](#算法)
-- [数据库](#数据库)
+    - [I / O] (# I)
+    - [Java 8] (# java-8)
+    - [Programming Specification] (#Programming Specification)
+- [Network] (#Network)
+- [Operating System] (# operating system)
+    - [Linux related] (#linux related)
+- [Data Structures and Algorithms] (#Data Structures and Algorithms)
+    - [Data Structure] (#Data Structure)
+    - [Algorithm] (#algorithm)
+- [database] (#database)
     - [MySQL](#mysql)
-    - [Redis](#redis)
-- [系统设计](#系统设计)
-    - [设计模式(工厂模式、单例模式 ... )](#设计模式)
-    - [常用框架(Spring、Zookeeper ... )](#常用框架)
-    - [数据通信(消息队列、Dubbo ... )](#数据通信)
-    - [网站架构](#网站架构)
-- [面试指南](#面试指南)
-    - [备战面试](#备战面试)
-    - [常见面试题总结](#常见面试题总结)
+    - [Redis] (# redis)
+- [System Design] (#System Design)
+    - [Design mode (factory mode, singleton mode...)] (#Design mode)
+    - [Common Framework (Spring, Zookeeper...)] (#Common Framework)
+    - [Data Communication (Message Queue, Dubbo ... )] (#Data Communication)
+    - [Site Architecture] (#Website Architecture)
+- [Interview Guide] (#Interview Guide)
+    - [Preparation for the interview] (#Preparation interview)
+    - [Common interview questions summary] (#Common interview questions summary)
     - [面经](#面经)
-- [工具](#工具)
-    - [Git](#git)
+- [Tools] (#Tools)
+    - [Go Go)
     - [Docker](#Docker)
-- [资料](#资料)
-    - [书单](#书单)
-    - [Github榜单](#Github榜单)
-- [待办](#待办)
-- [说明](#说明)
+- [Information](#资料)
+    - [Book List] (#Book List)
+    - [Github list] (#Github list)
+- [to do] (#to do)
+- [Description] (# description)
 
 ## Java
 
-### 基础
+### 基本
 
-* [Java 基础知识回顾](docs/java/Java基础知识.md)
-* [Java 基础知识疑难点总结](docs/java/Java疑难点.md)
-* [J2EE 基础知识回顾](docs/java/J2EE基础知识.md)
+* [Java Fundamentals Review] (docs/java/Java Fundamentals.md)
+* [Java Basics Troubleshooting Summary] (docs/java/Java Troubleshooting.md)
+* [J2EE Basics Review] (docs/java/J2EE Basics.md)
 
-### 容器
+### Container
 
-* [Java容器常见面试题/知识点总结](docs/java/collection/Java集合框架常见面试题.md)
-* [ArrayList 源码学习](docs/java/collection/ArrayList.md)  
-* [LinkedList 源码学习](docs/java/collection/LinkedList.md)   
-* [HashMap(JDK1.8)源码学习](docs/java/collection/HashMap.md)  
+* [Java container common interview questions / knowledge points summary] (docs/java/collection/Java collection framework common interview questions. md)
+* [ArrayList source learning] (docs/java/collection/ArrayList.md)  
+* [LinkedList source learning] (docs/java/collection/LinkedList.md)   
+* [HashMap (JDK1.8) source learning] (docs/java/collection/HashMap.md)  
 
-### 并发
+### concurrent
 
-* [Java 并发基础常见面试题总结](docs/java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md)
-* [Java 并发进阶常见面试题总结](docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)
-* [并发容器总结](docs/java/Multithread/并发容器总结.md)
-* [乐观锁与悲观锁](docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md)
-* [JUC 中的 Atomic 原子类总结](docs/java/Multithread/Atomic.md)
-* [AQS 原理以及 AQS 同步组件总结](docs/java/Multithread/AQS.md)
+* [Java Concurrency Basic Common Interview Questions Summary] (docs/java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md)
+* [Java Concurrency Advanced Interview Questions Summary] (docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)
+* [Concurrent Container Summary] (docs/java/Multithread/Concurrent Container Summary.md)
+* [Optimistic Lock and Pessimistic Lock] (docs/essential-content-for-interview/interview necessary optimistic lock and pessimistic lock.md)
+* [Atomic atomic class summary in JUC] (docs/java/Multithread/Atomic.md)
+* [AQS Principle and AQS Synchronization Component Summary] (docs/java/Multithread/AQS.md)
 
 ### JVM
 
-* [一 Java内存区域](docs/java/jvm/Java内存区域.md)
-* [二 JVM垃圾回收](docs/java/jvm/JVM垃圾回收.md)
-* [三 JDK 监控和故障处理工具](docs/java/jvm/JDK监控和故障处理工具总结.md)
-* [四 类文件结构](docs/java/jvm/类文件结构.md)
-* [五 类加载过程](docs/java/jvm/类加载过程.md)
-* [六 类加载器](docs/java/jvm/类加载器.md)
+* [a Java memory area] (docs/java/jvm/Java memory area.md)
+* [Two JVM garbage collection] (docs/java/jvm/JVM garbage collection.md)
+* [Three JDK monitoring and troubleshooting tools] (docs/java/jvm/JDK monitoring and troubleshooting tools summary.md)
+* [four types of file structure] (docs/java/jvm/class file structure.md)
+* [five types of loading process] (docs/java/jvm/class loading process.md)
+* [six class loaders] (docs/java/jvm/class loader.md)
 
-### I/O
+### I / O
 
-* [BIO,NIO,AIO 总结 ](docs/java/BIO-NIO-AIO.md)
-* [Java IO 与 NIO系列文章](docs/java/Java%20IO与NIO.md)
+* [BIO, NIO, AIO 总结] (docs / java / BIO-NIO-AIO.md)
+* [Java IO and NIO series articles] (docs/java/Java%20IO and NIO.md)
 
 ### Java 8 
 
-* [Java 8 新特性总结](docs/java/What's%20New%20in%20JDK8/Java8Tutorial.md)
-* [Java 8 学习资源推荐](docs/java/What's%20New%20in%20JDK8/Java8教程推荐.md)
+* [Java 8 new features summary] (docs/java/What's%20New%20in%20JDK8/Java8Tutorial.md)
+* [Java 8 Learning Resources Recommendation] (docs/java/What's%20New%20in%20JDK8/Java8 tutorial recommended.md)
 
-### 编程规范
+### Programming Specifications
 
-- [Java 编程规范](docs/java/Java编程规范.md)
+- [Java Programming Specification] (docs/java/Java Programming Specification.md)
 
-## 网络
+## The internet
 
-* [计算机网络常见面试题](docs/network/计算机网络.md)
-* [计算机网络基础知识总结](docs/network/干货：计算机网络知识总结.md)
-* [HTTPS中的TLS](docs/network/HTTPS中的TLS.md)
+* [Computer Network Common Interview Questions] (docs/network/computer network.md)
+* [Computer Network Basics Summary] (docs/network/dry goods: computer network knowledge summary.md)
+* [TLS in HTTPS] (TLS.md in docs/network/HTTPS)
 
-## 操作系统
+## operating system
 
-### Linux相关
+### Linux related
 
-* [后端程序员必备的 Linux 基础知识](docs/operating-system/后端程序员必备的Linux基础知识.md)  
-* [Shell 编程入门](docs/operating-system/Shell.md) 
+* [Basic Linux Essentials for Backend Programmers] (docs/operating-system/Backend Programmer Essential Linux Essentials.md)  
+* [Getting Started with Shell Programming] (docs/operating-system/Shell.md) 
 
-## 数据结构与算法
+## Data Structures and Algorithms
 
-### 数据结构
+### data structure
 
-- [数据结构知识学习与面试](docs/dataStructures-algorithms/数据结构.md)
+- [Data Structure Knowledge Learning and Interview] (docs/dataStructures-algorithms/data structure.md)
 
-### 算法
+### Algorithm
 
-- [算法学习资源推荐](docs/dataStructures-algorithms/算法学习资源推荐.md)  
-- [几道常见的字符串算法题总结 ](docs/dataStructures-algorithms/几道常见的子符串算法题.md)
-- [几道常见的链表算法题总结 ](docs/dataStructures-algorithms/几道常见的链表算法题.md)   
-- [剑指offer部分编程题](docs/dataStructures-algorithms/剑指offer部分编程题.md)
-- [公司真题](docs/dataStructures-algorithms/公司真题.md)
-- [回溯算法经典案例之N皇后问题](docs/dataStructures-algorithms/Backtracking-NQueens.md)
+- [Algorithm learning resource recommendation] (docs/dataStructures-algorithms/ algorithm learning resource recommendation.md)  
+- [Summary of common string algorithm questions] (docs/dataStructures-algorithms/a few common substring algorithm questions.md)
+- [Several common linked list algorithm questions] (docs/dataStructures-algorithms/a few common linked list algorithm questions. md)   
+- [Sword refers to the offer part of the programming problem] (docs/dataStructures-algorithms/sword refers to the offer part of the programming problem. md)
+- [Company Zhenti] (docs/dataStructures-algorithms/company Zhenti.md)
+- [N Queens Problem in Classical Cases of Backtracking Algorithms] (docs/dataStructures-algorithms/Backtracking-NQueens.md)
 
-## 数据库
+## Database
 
 ### MySQL
 
-* [MySQL 学习与面试](docs/database/MySQL.md)
-* [一千行MySQL学习笔记](docs/database/一千行MySQL命令.md)
-* [MySQL高性能优化规范建议](docs/database/MySQL高性能优化规范建议.md)
-* [数据库索引总结](docs/database/MySQL%20Index.md)
-* [事务隔离级别(图文详解)](docs/database/事务隔离级别(图文详解).md)
-* [一条SQL语句在MySQL中如何执行的](docs/database/一条sql语句在mysql中如何执行的.md)
+* [MySQL Learning & Interview] (docs/database/MySQL.md)
+* [One thousand lines of MySQL study notes] (docs/database/one thousand lines of MySQL commands.md)
+* [MySQL High Performance Optimization Specification Recommendation] (docs/database/MySQL High Performance Optimization Specification Recommendation.md)
+* [Database Index Summary] (docs/database/MySQL%20Index.md)
+* [Transaction isolation level (graphic details)] (docs/database/transaction isolation level (graphic details).md)
+* [How to execute a SQL statement in MySQL] (docs/database/. How to execute a sql statement in mysql.md)
 
 ### Redis
 
-* [Redis 总结](docs/database/Redis/Redis.md)
-* [Redlock分布式锁](docs/database/Redis/Redlock分布式锁.md)
-* [如何做可靠的分布式锁，Redlock真的可行么](docs/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
+* [Redis Summary] (docs/database/Redis/Redis.md)
+* [Redlock Distributed Lock] (docs/database/Redis/Redlock Distributed Lock.md)
+* [How to make reliable distributed locks, is Redlock really feasible?] (docs/database/Redis/ How to do reliable distributed locks, Redlock is really feasible. md)
 
-## 系统设计
+## system design
 
-### 设计模式
+### Design Patterns
 
-- [设计模式系列文章](docs/system-design/设计模式.md)
+- [Design Pattern Series Article] (docs/system-design/Design Mode.md)
 
-### 常用框架
+### Common framework
 
 #### Spring
 
-- [Spring 学习与面试](docs/system-design/framework/spring/Spring.md)
-- [Spring 常见问题总结](docs/system-design/framework/spring/SpringInterviewQuestions.md)
-- [Spring中bean的作用域与生命周期](docs/system-design/framework/spring/SpringBean.md)
-- [SpringMVC 工作原理详解](docs/system-design/framework/spring/SpringMVC-Principle.md)
-- [Spring中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
+- [Spring Learning & Interview] (docs/system-design/framework/spring/Spring.md)
+- [Spring FAQ Summary] (docs/system-design/framework/spring/SpringInterviewQuestions.md)
+- [Scope and lifecycle of beans in Spring] (docs/system-design/framework/spring/SpringBean.md)
+- [SpringMVC working principle] (docs/system-design/framework/spring/SpringMVC-Principle.md)
+- [Which design patterns are used in Spring?] (docs/system-design/framework/spring/Spring-Design-Patterns.md)
 
 #### ZooKeeper
 
-- [ZooKeeper 相关概念总结](docs/system-design/framework/ZooKeeper.md)
-- [ZooKeeper 数据模型和常见命令](docs/system-design/framework/ZooKeeper数据模型和常见命令.md)
+- [ZooKeeper related concept summary] (docs/system-design/framework/ZooKeeper.md)
+- [ZooKeeper data model and common commands] (docs/system-design/framework/ZooKeeper data model and common commands.md)
 
-### 数据通信
+### data communication
 
-- [数据通信(RESTful、RPC、消息队列)相关知识点总结](docs/system-design/data-communication/summary.md)
-- [Dubbo 总结：关于 Dubbo 的重要知识点](docs/system-design/data-communication/dubbo.md)
-- [消息队列总结](docs/system-design/data-communication/message-queue.md)
+- [Data communication (RESTful, RPC, message queue) related knowledge points summary] (docs/system-design/data-communication/summary.md)
+- [Dubbo Summary: Important Points About Dubbo] (docs/system-design/data-communication/dubbo.md)
+- [Message Queue Summary] (docs/system-design/data-communication/message-queue.md)
 - [RabbitMQ 入门](docs/system-design/data-communication/rabbitmq.md)
-- [RocketMQ的几个简单问题与答案](docs/system-design/data-communication/RocketMQ-Questions.md)
+- [Some simple questions and answers for RocketMQ] (docs/system-design/data-communication/RocketMQ-Questions.md)
 
-### 网站架构
+### Website Architecture
 
-- [一文读懂分布式应该学什么](docs/system-design/website-architecture/分布式.md)
-- [8 张图读懂大型网站技术架构](docs/system-design/website-architecture/8%20张图读懂大型网站技术架构.md)
-- [【面试精选】关于大型网站系统架构你不得不懂的10个问题](docs/system-design/website-architecture/【面试精选】关于大型网站系统架构你不得不懂的10个问题.md)
+- [Read what to learn in a single article] (docs/system-design/website-architecture/distributed.md)
+- [8 pictures to understand the technical architecture of large websites] (docs/system-design/website-architecture/8%20 pictures to understand the technical structure of large websites.md)
+- [[Interview Selection] 10 questions you have to understand about large-scale website system architecture] (docs/system-design/website-architecture/[Interview selection] 10 questions you have to understand about large-scale website system architecture .md)
 
-## 面试指南
+## Interview Guide
 
-### 备战面试
+### Preparation for the interview
 
-* [【备战面试1】程序员的简历就该这样写](docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)
-* [【备战面试2】初出茅庐的程序员该如何准备面试？](docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md)
-* [【备战面试3】7个大部分程序员在面试前很关心的问题](docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)
-* [【备战面试4】Github上开源的Java面试/学习相关的仓库推荐](docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)
-* [【备战面试5】如果面试官问你“你有什么问题问我吗？”时，你该如何回答](docs/essential-content-for-interview/PreparingForInterview/如果面试官问你“你有什么问题问我吗？”时，你该如何回答.md)
-* [【备战面试6】美团面试常见问题总结（附详解答案）](docs/essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md)
+* [[Prepare for the interview 1] The resume of the programmer should be written like this] (docs/essential-content-for-interview/PreparingForInterview/programmer's resume. md)
+* [[Prepare for the interview 2] How do the first-time programmers prepare for the interview? ](docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md)
+* [[Prepare for Interview 3] 7 questions that most programmers are concerned about before the interview] (docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)
+* [[Prepare for Interview 4] Open source Java interview/learning related library recommendation on Github] (docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)
+* [[Prepare for Interview 5] If the interviewer asks you "Do you have any questions to ask me?", how do you answer] (docs/essential-content-for-interview/PreparingForInterview/ If the interviewer asks you "You have What questions are you asking me?" How do you answer .md)
+* [[Prepare for the interview 6] US group interview FAQ summary (with detailed answers)] (docs/essential-content-for-interview/PreparingForInterview/ US group interview FAQ summary. md)
 
-### 常见面试题总结
+### Summary of common interview questions
 
-* [第一周（2018-8-7）](docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/第一周（2018-8-7）.md) (为什么 Java 中只有值传递、==与equals、 hashCode与equals)
-* [第二周（2018-8-13）](docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
-* [第三周（2018-08-22）](docs/java/collection/Java集合框架常见面试题.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
-* [第四周(2018-8-30).md](docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
+* [First week (2018-8-7)] (docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/First week (2018-8-7).md) (Why is there only value passing in Java, == and Equals, hashCode, and equals)
+* [Second week (2018-8-13)] (docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/Second week (2018-8-13).md) (What is the difference between String and StringBuffer, StringBuilder? Why is String immutable? What is reflection mechanism? What are the application scenarios of reflection mechanism?...)
+* [Third week (2018-08-22)] (docs/java/collection/Java collection framework common interview questions. md) (The difference between Arraylist and LinkedList, ArrayList and Vector, the underlying implementation of HashMap, HashMap and Hashtable The length of the HashMap is the power of 2, the difference between HashSet and HashMap, the difference between ConcurrentHashMap and Hashtable, the specific implementation of ConcurrentHashMap thread security/the underlying concrete implementation, and the underlying data structure of the collection framework.
+* [Fourth week (2018-8-30).md] (docs/essential-content-for-interview/MostCommonJavaInterviewQuestions/fourth week (2018-8-30).md) (main content is a few interview questions The multi-threaded basic question.)
 
-### 面经
+###面经
 
-- [5面阿里,终获offer(2018年秋招)](docs/essential-content-for-interview/BATJrealInterviewExperience/5面阿里,终获offer.md)
-- [蚂蚁金服2019实习生面经总结(已拿口头offer)](docs/essential-content-for-interview/BATJrealInterviewExperience/蚂蚁金服实习生面经总结(已拿口头offer).md)
-- [2019年蚂蚁金服、头条、拼多多的面试总结](docs/essential-content-for-interview/BATJrealInterviewExperience/2019alipay-pinduoduo-toutiao.md)
+- [5 faces Ali, the final offer (2018 autumn trick)] (docs/essential-content-for-interview/BATJrealInterviewExperience/5 face Ali, the final offer.md)
+- [Ant Jinfu 2019 Intern Summaries Summary (has taken oral offer)] (docs/essential-content-for-interview/BATJrealInterviewExperience/Ant gold service intern face summary (has taken oral offer).md)
+- [2019 ant gold clothes, headlines, a lot of interview summary] (docs/essential-content-for-interview/BATJrealInterviewExperience/2019alipay-pinduoduo-toutiao.md)
 
-## 工具
+## Tools
 
 ### Git
 
-* [Git入门](docs/tools/Git.md)
+* [Getting Started with Git] (docs/tools/Git.md)
 
 ### Docker
 
-* [Docker 入门](docs/tools/Docker.md)
-* [一文搞懂 Docker 镜像的常用操作！](docs/tools/Docker-Image.md)
+* [Getting Started with Docker] (docs/tools/Docker.md)
+* [A common way to understand Docker images! ](docs/tools/Docker-Image.md)
 
-## 资料
+##资料
 
-### 书单
+### book list
 
-- [Java程序员必备书单](docs/data/java-recommended-books.md)
+- [Java Programmer's Essentials] (docs/data/java-recommended-books.md)
 
-### Github榜单
+### Github list
 
-- [Java 项目月榜单](docs/github-trending/JavaGithubTrending.md)
+- [Java Project Month List] (docs/github-trending/JavaGithubTrending.md)
 
 ***
 
-## 待办
+## Upcoming
 
-- [ ] Java 多线程类别知识重构(---正在进行中---)
-- [ ] Netty 总结(---正在进行中---)
-- [ ] 数据结构总结重构(---正在进行中---)
+- [ ] Java multi-threaded category knowledge refactoring (---in progress ---)
+- [ ] Netty Summary (---In progress ---)
+- [ ] Data structure summary refactoring (---in progress ---)
 
-## 说明
+## Description
 
-### 介绍
+### Introduction
 
-*  **对于 Java 初学者来说：** 本文档倾向于给你提供一个比较详细的学习路径，让你对于Java整体的知识体系有一个初步认识。另外，本文的一些文章
-也是你学习和复习 Java 知识不错的实践；
-*  **对于非 Java 初学者来说：** 本文档更适合回顾知识，准备面试，搞清面试应该把重心放在那些问题上。要搞清楚这个道理：提前知道那些面试常见，不是为了背下来应付面试，而是为了让你可以更有针对的学习重点。
+* ** For Java beginners: ** This document tends to give you a more detailed learning path, giving you a first look at the overall knowledge of Java. In addition, some articles in this article
+It is also a good practice for you to learn and review Java knowledge;
+* ** For non-Java beginners: ** This document is more suitable for reviewing knowledge, preparing for an interview, and understanding the interview should focus on those issues. To figure this out: Know in advance that interviews are common, not to deal with interviews, but to give you more targeted learning.
 
-Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
+Markdown format reference: [Github Markdown format] (https://guides.github.com/features/mastering-markdown/), emoticon material from: [EMOJI CHEAT SHEET] (https://www.webpagefx.com/tools/ Emoji-cheat-sheet/).
 
-利用 docsify 生成文档部署在 Github pages: [docsify 官网介绍](https://docsify.js.org/#/)
+Use docsify to generate documentation for deployment on Github pages: [docsify official website introduction] (https://docsify.js.org/#/)
 
-### 关于转载
+### About reprinting
 
-如果你需要转载本仓库的一些文章到自己的博客的话，记得注明原文地址就可以了。
+If you need to reprint some of the articles in this warehouse to your own blog, remember to indicate the original address.
 
-### 如何对该开源文档进行贡献
+### How to contribute to this open source document
 
-1. 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
-2. 很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。
-3. 现有的知识点难免存在不完善或者错误，所以你可以对已有知识点的修改/补充。
+1. Most of the notes are hand-knocked, so it is inevitable that there will be a clerical error. You can help me find the wrong word.
+2. A lot of knowledge points may not be covered, so you can supplement other knowledge points.
+3. Existing knowledge points are inevitably imperfect or wrong, so you can modify/supplement existing knowledge points.
 
-### 为什么要做这个开源文档？
+### Why do you want to do this open source document?
 
-初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者面试过程中遇到问题的小伙伴。
+The initial idea stems from a rather confusing learning experience in my own individual. The main purpose is to help some of the friends who are having problems learning Java or interviewing through this open source platform.
 
-### 投稿
+### Post
 
-由于我个人能力有限，很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。大家也可以对自己的文章进行自荐，对于不错的文章不仅可以成功在本仓库展示出来更可以获得作者送出的 50 元左右的任意书籍进行奖励(当然你也可以直接折现50元)。
+Due to my limited personal abilities, I may not have covered a lot of knowledge points, so you can supplement other knowledge points. You can also self-recommend your own articles. For a good article, you can not only successfully display it in this warehouse, but also get any books worth about 50 yuan from the author to reward (of course you can also directly discount 50 yuan).
 
-### 联系我
+### contact me
 
-添加我的微信备注“Github”,回复关键字 **“加群”** 即可入群。
+Add my WeChat note "Github" and reply to the keyword ** "Add group"** to enter the group.
 
-![我的微信](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/wechat1.jpg)
+![我微信](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/wechat1.jpg)
 
 ### Contributor
 
-下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
+The following are some of the friends collected by the author who have valuable pr or issue to the warehouse. The number is large. If you have a good pr or issue for this warehouse, you can add my WeChat to contact me. The following rankings are in no particular order!
 
 <a href="https://github.com/fanofxiaofeng">
     <img src="https://avatars0.githubusercontent.com/u/3983683?s=460&v=4" width="45px"></a>
@@ -330,12 +330,12 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
     <img src="https://avatars0.githubusercontent.com/u/20358122?s=460&v=4" width="45px">
 </a>
 
-### 公众号
+### No public
 
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
+If you want to follow my updated articles and share the dry goods in real time, you can follow my public number.
 
-**《Java面试突击》:** 由本文档衍生的专为面试而生的《Java面试突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java面试突击"** 即可免费领取！
+** "Java Interview Assault": ** "Java Interview Assault" V2.0 PDF version [public number] (# public number) background reply ** "Java Interview Assault"** derived from this document You can get it for free!
 
-**Java工程师必备学习资源:** 一些Java工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。 
+**Java engineers must learn resources: ** Some Java engineers commonly use learning resources public number background reply keyword ** "1" ** can be free without routine access. 
 
-![我的公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
+![My public number] (https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
